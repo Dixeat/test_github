@@ -1,4 +1,5 @@
 <?php
+
 Class Plop
 {
     public function __construct(){
